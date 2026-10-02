@@ -49,8 +49,6 @@ enable_footnote: false
 auto_dark_mode: false
 # option to make avatar (profile photo) round vs rectangular
 round_avatar: false
-# option to show thumbnail or "teaser" figure next to each publication
-enable_publication_thumbnails: true
 enable_notes_thumbnails: false
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 # favicon: ./assets/img/favicon.png

@@ -286,6 +286,15 @@ dl {
   margin: 0 0 20px;
 }
 
+main ul {
+  list-style-type: square;
+}
+
+main ul li::marker {
+  color: #043361;
+  font-size: 1.3em;
+}
+
 h1,
 h2,
 h3 {

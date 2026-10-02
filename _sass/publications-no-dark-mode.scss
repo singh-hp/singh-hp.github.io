@@ -109,6 +109,15 @@ screen and (min-width: 480px) {
   font-weight: bolder;
 }
 
+.publications ul.pub-list li {
+  margin-bottom: 0.5rem;
+}
+
+.publications ul.pub-list li .title {
+  color: #222;
+  font-weight: 700;
+}
+
 .publications ol.bibliography li .author a {
   border-bottom: 1px var(--global-theme-color);
 }

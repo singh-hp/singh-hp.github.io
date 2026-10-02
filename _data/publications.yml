@@ -1,19 +1,14 @@
 main:
 
   - title: Large scale dynamical response of interacting 1d Fermi systems
-    authors: Marcello Porta, Giuseppe Scola, Harman Preet Singh
-    journal_short: Preprint
-    journal: arXiv preprint
-    year: 2025
+    authors: M. Porta, G. Scola, and H. P. Singh
     arxiv: https://arxiv.org/abs/2509.08665
-    notes: submitted
-    # image: ./assets/img/teaser_example.png
+    year: 2025
+    notes: to appear in Comm. Math. Phys.
 
   - title: Large Scale Response of Gapless 1d and Quasi-1d Systems
-    authors: Marcello Porta, Harman Preet Singh
-    journal_short: Ann. H. Poincaré
-    journal: Annales Henri Poincaré
-    year: 2025
-    link: https://doi.org/10.1007/s00023-025-01600-z
+    authors: M. Porta and H. P. Singh
     arxiv: https://arxiv.org/abs/2411.04023
-    image: ./assets/img/lattice2d.png
+    journal: Ann. Henri Poincaré, Vol.&nbsp;27, pp.&nbsp;2997–3055
+    link: https://doi.org/10.1007/s00023-025-01600-z
+    year: 2026

@@ -35,7 +35,7 @@ I am also studying the locality propagation properties of fermionic systems in t
 
 {% include_relative _includes/publications.html %}
 
-## Essential CV
+## Brief Curriculum Vitae
 
 **2025-now**: Postdoctoral researcher, [University of Tübingen](https://uni-tuebingen.de/en/), Germany  
 **2025**: Ph.D. in Geometry and Mathematical Physics (*cum laude*), [SISSA](https://www.sissa.it), Trieste, Italy  
@@ -43,6 +43,11 @@ I am also studying the locality propagation properties of fermionic systems in t
 **2019**: B.Sc. in Physics, [University of Padova](https://www.unipd.it/en/), Italy
 
 [Here](assets/files/Singh_CV.pdf) you can find a detailed academic CV.
+
+## Teaching
+
+- **Summer Semester 2026**: Teaching assistant for *Advanced Topics in Mathematical Quantum Theory* (Prof. M. Lemm), M.Sc. in Mathematical Physics, University of Tübingen
+- **Winter Semester 2025/26**: Teaching assistant for *Mathematical Quantum Theory* (Prof. S. Teufel), M.Sc. in Mathematical Physics, University of Tübingen
 
 ## Talks
 
@@ -60,12 +65,6 @@ I am also studying the locality propagation properties of fermionic systems in t
 - **Jun 2022**: *Determination of the RG fixed point via tree expansion*, Renormalization Group Seminar, SISSA, Trieste, Italy
 - **May 2022**: *The canonical ensemble of the periodic Toda lattice*, Seminar-exam in Riemann Surfaces and Integrable Systems, SISSA, Trieste, Italy
 
-## Scientific Visits
-
-- **University of Zürich (UZH)**, hosted by B. Schlein and M. Porta: May 2024, March 2024, and Nov.–Dec. 2023 (one week each)
-
 ## Misc.
-
-I speak Italian and Punjabi natively, English (C1) and Hindi fluently, and have a basic knowledge of French.
 
 My name is spelled as ਹਰਮਨਪ੍ਰੀਤ ਸਿੰਘ in [Gurmukhī](https://en.wikipedia.org/wiki/Gurmukhi), as ہرمنپریت سنگھ in [Shāhmukhī](https://en.wikipedia.org/wiki/Shahmukhi), as हरमनप्रीत सिंह in [Devanāgarī](https://en.wikipedia.org/wiki/Devanagari), and as ἁρμανπριτ σινγ᾽ in Greek. Tentatively, in Hangul you would have 할만플맅 싱.
