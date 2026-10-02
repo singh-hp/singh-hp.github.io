@@ -10,7 +10,7 @@
 # Basic Information 
 title: Harman Preet Singh
 position: Postdoctoral Researcher
-affiliation: Universität Tübingen
+affiliation: University of Tübingen
 affiliation_link: https://www.math.uni-tuebingen.de/
 email: harman-preet.singh (at) uni-tuebingen.de
 email_link: mailto:harman-preet.singh@uni-tuebingen.de
@@ -26,13 +26,13 @@ cv_link: assets/files/Singh_CV.pdf
 google_scholar: https://scholar.google.com/citations?user=su1aN58AAAAJ&hl=it&oi=sra
 # math_overflow: https://mathoverflow.net/users/81295/harry-richman
 github_link: https://github.com/singh-hp
-# linkedin: https://www.linkedin.com/in/harry-richman/
+linkedin: https://www.linkedin.com/in/harman-preet-singh-19459938a/
 orcid: https://orcid.org/0009-0008-8014-4974
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 description: Personal homepage of Harman Preet Singh.
-keywords: Harman Preet Singh academic research mathematics math mathematical physics
+keywords: Harman Preet Singh, academic, research, mathematics, mathematical physics, quantum many-body systems, linear response, Kubo formula, renormalization group, topological insulators, Tübingen, SISSA
 canonical: https://singh-hp.github.io
 
 

@@ -5,27 +5,31 @@ layout: homepage
 # Welcome to my homepage!
 
 ## Contact
-Eberhard Karls Universität Tübingen,
-Fachbereich Mathematik, 
-Auf der Morgenstelle, 10   
+University of Tübingen  
+Fachbereich Mathematik  
+Auf der Morgenstelle 10  
 72076 Tübingen, Germany  
-**Office**: C4P42   
-**Email**: harman-preet (dot) singh (at) uni-tuebingen (dot) de 
+**Office**: C4P42  
+**Email**: harman-preet (dot) singh (at) uni-tuebingen (dot) de  
 **Personal email**: harman97 (at) hotmail (dot) com
 
 ## About me
-Currently, I am a postdoc at [Eberhard-Karls-Universität Tübingen](https://uni-tuebingen.de/en/), working in the groups of [Prof. Marius Lemm](https://www.math.uni-tuebingen.de/de/forschung/maphy/personen/mariuslemm/mariuslemm) and [Prof. Stefan Teufel](https://www.math.uni-tuebingen.de/de/forschung/maphy/personen/stefanteufel?set_language=de).
+Currently, I am a postdoc at the [University of Tübingen](https://uni-tuebingen.de/en/), working in the groups of [Prof. Marius Lemm](https://www.math.uni-tuebingen.de/de/forschung/maphy/personen/mariuslemm/mariuslemm) and [Prof. Stefan Teufel](https://www.math.uni-tuebingen.de/de/forschung/maphy/personen/stefanteufel?set_language=de).
 Previously, I obtained my Ph.D. in Mathematics at [SISSA](https://www.sissa.it), under the supervision of [Prof. Marcello Porta](https://sites.google.com/view/marcelloporta/home).
+Before that, I studied physics at the [University of Padova](https://www.unipd.it/en/), where I obtained my B.Sc. and M.Sc. degrees.
 
 ## Research Interests
 
-I study equations of the form $\int_0^\infty e^{-2\pi x^2} \, dx$.
-I am also interested in the  groups \\(H_k(\mathcal M_g, \mathbb Q)\\) and 
-$\pi_k(\mathrm{Sym}^\infty \mathcal M^\mathrm{trop}_g)$
+My research focuses on the mathematical analysis of transport in quantum many-body systems, employing techniques drawn from quantum field theory and equilibrium statistical mechanics.
+I am also keen on the emergence of topological and geometrical invariants parameterising robust phases of matter.
 
-- **Tropical geometry:** curves and Jacobians, Weierstrass points
-- **Number theory:** uniform bounds on rational points, Riemann hypothesis
-- **Biology:** evolution of bats.
+During my Ph.D., I worked on proving the validity of linear response, encoded in the Kubo formula, for *gapless* lattice fermionic systems in low dimensions, via rigorous renormalisation group techniques.
+Currently, I am investigating the extension of these results to higher-dimensional models.
+I am also studying the locality propagation properties of fermionic systems in the continuum setting.
+
+- **Quantum many-body systems:** transport, linear response theory, Kubo formula
+- **Topological phases of matter:** edge response of 2d topological insulators
+- **Methods:** rigorous renormalisation group, quantum field theory, statistical mechanics
 
 ## Publications
 
@@ -33,52 +37,35 @@ $\pi_k(\mathrm{Sym}^\infty \mathcal M^\mathrm{trop}_g)$
 
 ## Essential CV
 
-**2025-now**: Postdoctoral researcher, [University of Tübingen](https://uni-tuebingen.de/en/), Germany    
-**2025**: Ph.D. in Geometry and Mathematical Physics, [SISSA](https://www.sissa.it), Trieste, Italy    
-**2021**: M.Sc. in Physics, [University of Padova](https://www.unipd.it/en/), Italy   
+**2025-now**: Postdoctoral researcher, [University of Tübingen](https://uni-tuebingen.de/en/), Germany  
+**2025**: Ph.D. in Geometry and Mathematical Physics (*cum laude*), [SISSA](https://www.sissa.it), Trieste, Italy  
+**2021**: M.Sc. in Physics (110/110 *cum laude*), [University of Padova](https://www.unipd.it/en/), Italy  
 **2019**: B.Sc. in Physics, [University of Padova](https://www.unipd.it/en/), Italy
 
-[Here](/assets/files/Singh_CV.pdf) you can find a detailed academic CV.
+[Here](assets/files/Singh_CV.pdf) you can find a detailed academic CV.
 
-## Notes and Presentations
+## Talks
 
-{% include_relative _includes/notes.html %}
+#### Conference talks and posters
+- **Feb 2025**: *Large scale edge response for 2d topological insulators*, Mathematical Challenges in Quantum Mechanics, GSSI, L'Aquila, Italy
+- **Dec 2024**: *Validity of edge linear response for 2d topological insulators*, 127th Statistical Mechanics Conference, Rutgers University, Piscataway, New Jersey, USA
+- **Aug 2024**: Contributed poster, Rigorous Renormalization Group Analysis of Collective Phenomena in Fermionic Quantum Systems, Como, Italy
+- **Aug 2024**: *Validity of edge linear response for 2d topological insulators*, Quantissima in the Serenissima V, Venice, Italy
 
-## Teaching
+#### Seminar talks
+- **Dec 2025**: *Validity of Kubo formula for 1d and quasi-1d lattice fermionic systems*, Junior SFB Coffee Talk, online
+- **Nov 2025**: *Large-scale response theory for gapless lattice Fermi systems in low dimensions*, Mathematical Physics Oberseminar, University of Tübingen, Germany
+- **Jan 2025**: *Large scale response of gapless 1d and quasi-1d fermionic systems*, Mathematical Physics Oberseminar, University of Tübingen, Germany
+- **Mar 2023**: *A geometric picture of topological phases of matter*, Junior Geometry and Mathematical Physics Seminar, SISSA, Trieste, Italy
+- **Jun 2022**: *Determination of the RG fixed point via tree expansion*, Renormalization Group Seminar, SISSA, Trieste, Italy
+- **May 2022**: *The canonical ensemble of the periodic Toda lattice*, Seminar-exam in Riemann Surfaces and Integrable Systems, SISSA, Trieste, Italy
 
-I have experience teaching the fundamental theorem of calculus
-\\[ \int_a^b f'(x) \, dx = f(b) - f(a) .\\]
-This is related to the isomorphism
-$\mathrm{Pic}^0(X) \cong H^0(X, \Omega^1)^\vee / H_1(X, \mathbb Z)$
-when $X$ is an algebraic curve.
+## Scientific Visits
 
-**University of Washington**
+- **University of Zürich (UZH)**, hosted by B. Schlein and M. Porta: May 2024, March 2024, and Nov.–Dec. 2023 (one week each)
 
-- [Math 115](https://dept.math.lsa.umich.edu/courses/115/), Calculus 1, Fall 2019
-- [Math 208](https://sites.math.washington.edu/~m208/), Linear Algebra, Fall 2020
+## Misc.
 
-## Service
-
-#### Organizer 
-- Student Combinatorics Seminar, University of Washington
-- Directed Reading Program
-
-#### Journal Reviewer
-- INTEGERS
-- Electronic Journal of Combinatorics
-- Taiwanese J. Math.
-- Inventiones
-
-## Misc. Links
+I speak Italian and Punjabi natively, English (C1) and Hindi fluently, and have a basic knowledge of French.
 
 My name is spelled as ਹਰਮਨਪ੍ਰੀਤ ਸਿੰਘ in [Gurmukhī](https://en.wikipedia.org/wiki/Gurmukhi), as ہرمنپریت سنگھ in [Shāhmukhī](https://en.wikipedia.org/wiki/Shahmukhi), as हरमनप्रीत सिंह in [Devanāgarī](https://en.wikipedia.org/wiki/Devanagari), and as ἁρμανπριτ σινγ᾽ in Greek. Tentatively, in Hangul you would have 할만플맅 싱.
-
-- [MathSciNet](https://mathscinet.ams.org/mathscinet)
-- [Online Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/)
-
-**Other template features:**
-- Mathjax enabled: use `$...$` or `\\(...\\)` for inline mode; use `\\[...\\]` for display mode
-
-- Markdown for a math quote:
-> God is always doing geometry  
-> -- Plato
