@@ -97,3 +97,30 @@
   }
 }
 
+
+@media (prefers-color-scheme: dark) {
+  a:hover {
+    color: #9fdcf7;
+  }
+
+  main ul li::marker {
+    color: #3eb7f0;
+  }
+
+  .section-nav a {
+    color: #3eb7f0;
+  }
+
+  .section-nav a:hover {
+    color: #9fdcf7;
+  }
+
+  .section-nav--sidebar {
+    border-top-color: #3a3c4a;
+  }
+
+  .section-nav--bar {
+    background: #20212b;
+    border-bottom-color: #3a3c4a;
+  }
+}

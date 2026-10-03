@@ -34,3 +34,17 @@
 .publications ul.pub-list li a.arxiv:hover {
   color: #0b3d2a;
 }
+
+@media (prefers-color-scheme: dark) {
+  .publications ul.pub-list li .title {
+    color: #eeeff0;
+  }
+
+  .publications ul.pub-list li a.arxiv {
+    color: #4cc38a;
+  }
+
+  .publications ul.pub-list li a.arxiv:hover {
+    color: #a3e6c1;
+  }
+}

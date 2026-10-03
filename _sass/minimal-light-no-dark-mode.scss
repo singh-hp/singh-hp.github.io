@@ -650,3 +650,105 @@ screen and (max-width: 480px) {
   display: none;
   font-family: monospace;
 }
+// Section navigation: links in the sidebar on desktop, sticky bar on mobile
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+.section-nav a {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  color: #043361;
+}
+
+.section-nav a:hover {
+  color: #1f6fb2;
+}
+
+.section-nav a.active {
+  font-weight: 700;
+}
+
+// Reserve the bold width so the active link does not shift its neighbours
+.section-nav a::after {
+  content: attr(data-label);
+  font-weight: 700;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden;
+}
+
+.section-nav--sidebar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2px 14px;
+  padding-top: 14px;
+  border-top: 1px solid #e5e5e5;
+  font-size: 15px;
+}
+
+.section-nav--bar {
+  display: none;
+}
+
+@media screen and (max-width: 960px) {
+  .section-nav--sidebar {
+    display: none;
+  }
+
+  .section-nav--bar {
+    display: flex;
+    gap: 20px;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    margin: 0 -15px;
+    padding: 10px 15px;
+    overflow-x: auto;
+    white-space: nowrap;
+    background: #fff;
+    border-bottom: 1px solid #e5e5e5;
+    font-size: 15px;
+    scrollbar-width: none;
+  }
+
+  .section-nav--bar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .section-nav--bar + main {
+    border-top-width: 0;
+  }
+
+  main h2 {
+    scroll-margin-top: 60px;
+  }
+}
+
+@media print {
+  .section-nav {
+    display: none;
+  }
+}
+
+// Short desktop windows (e.g. 1366x768 laptops): tighten the fixed sidebar so
+// the section links stay on screen
+@media screen and (min-width: 961px) and (max-height: 760px) {
+  header {
+    padding-top: 1.5em;
+  }
+
+  .image.avatar img {
+    width: 150px;
+    margin: 10px;
+  }
+}

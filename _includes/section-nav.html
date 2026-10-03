@@ -1,0 +1,5 @@
+<nav class="section-nav {{ include.class }}" aria-label="Sections">
+  {% for item in site.data.navigation.main %}
+  <a href="#{{ item.id }}" data-label="{{ item.title }}">{{ item.title }}</a>
+  {% endfor %}
+</nav>

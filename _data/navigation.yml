@@ -1,0 +1,17 @@
+# Section links shown in the sidebar (desktop) and the sticky bar (mobile).
+# "id" is the anchor of the corresponding "## Heading" in index.md.
+main:
+  - title: Contact
+    id: contact
+  - title: About
+    id: about-me
+  - title: Publications
+    id: publications
+  - title: CV
+    id: brief-curriculum-vitae
+  - title: Teaching
+    id: teaching
+  - title: Talks
+    id: talks
+  - title: Misc.
+    id: misc
