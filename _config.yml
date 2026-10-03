@@ -57,9 +57,8 @@ enable_notes_thumbnails: false
 favicon: ./assets/img/favicon-hs-32.png
 favicon_dark: ./assets/img/favicon-hs-32.png
 
-# Google Analytics ID
-# Please uncomment this if you use Google Analytics
-# google_analytics: UA-000000000-0
+# GoatCounter site code (cookieless analytics, dashboard at https://<code>.goatcounter.com)
+goatcounter: singh-hp
 
 
 ############################

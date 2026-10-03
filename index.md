@@ -25,8 +25,8 @@ My research interests are within the mathematics of quantum many-body systems, w
 2019–2021: M.Sc. in Physics, [University of Padova](https://www.unipd.it/en/)  
 2016–2019: B.Sc. in Physics, [University of Padova](https://www.unipd.it/en/)
 
-[Detailed academic CV (PDF)](assets/files/Singh_CV.pdf)  
-[Ph.D. thesis (PDF)](assets/files/Singh_Thesis.pdf): *Large-Scale Response Theory for Gapless Lattice Fermi Systems in Low Dimensions*
+[Detailed academic CV (PDF)](assets/files/Singh_CV.pdf){: data-goatcounter-click="download-cv" data-goatcounter-title="CV (PDF)"}  
+[Ph.D. thesis (PDF)](assets/files/Singh_Thesis.pdf){: data-goatcounter-click="download-thesis" data-goatcounter-title="Ph.D. thesis (PDF)"}: *Large-Scale Response Theory for Gapless Lattice Fermi Systems in Low Dimensions*
 
 ## Publications
 
