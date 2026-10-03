@@ -3,7 +3,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --global-theme-color: rgb(36, 150, 203);
+    --global-theme-color: #6fb0f2;
   }
 }
 
@@ -37,14 +37,14 @@
 
 @media (prefers-color-scheme: dark) {
   .publications ul.pub-list li .title {
-    color: #eeeff0;
+    color: #f1f4f8;
   }
 
   .publications ul.pub-list li a.arxiv {
-    color: #4cc38a;
+    color: #5fbf88;
   }
 
   .publications ul.pub-list li a.arxiv:hover {
-    color: #a3e6c1;
+    color: #b5e6c9;
   }
 }

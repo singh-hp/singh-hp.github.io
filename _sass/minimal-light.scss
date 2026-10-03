@@ -1,9 +1,13 @@
-@import 'minimal-light-no-dark-mode';   
+@import 'minimal-light-no-dark-mode';
+
+// Dark mode palette ("midnight navy"): background #0f1a2a, text #d5dbe5,
+// headings and markers #a9c8ee, links #6fb0f2 (hover #c6dcf7),
+// bold text #f1f4f8, dividers #24324a
 
 
 @media (prefers-color-scheme: dark) {
   .social-icons a {
-    color: #3eb7f0 !important;
+    color: #a9c8ee !important;
   }
 }
 
@@ -13,7 +17,7 @@
   }
 
   .social-icons a:hover {
-    background-color: #20212b;
+    background-color: #0f1a2a;
     color: black;
     transform: scale(1.2)
   }
@@ -37,12 +41,12 @@
 
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #20212b;
-    color: #dadbdf;
+    background-color: #0f1a2a;
+    color: #d5dbe5;
   }
 
   autocolor {
-    color: #dadbdf;
+    color: #d5dbe5;
   }
 
   lightonly {
@@ -54,7 +58,7 @@
   }
 
   papertitle {
-    color: #eeeff0;
+    color: #f1f4f8;
   }
 
 }
@@ -67,60 +71,75 @@
   h4,
   h5,
   h6 {
-    color: rgb(62, 183, 240);
+    color: #a9c8ee;
   }
 
   h2 {
-    color: rgb(62, 183, 240);
+    color: #a9c8ee;
   }
 }
 
 @media (prefers-color-scheme: dark) {
   a {
-    color: rgb(62, 183, 240);
+    color: #6fb0f2;
+  }
+
+  a:hover {
+    color: #c6dcf7;
   }
 }
 
 @media (prefers-color-scheme: dark) {
   th {
-    color: rgb(62, 183, 240);
+    color: #a9c8ee;
   }
 
   dt {
-    color: rgb(62, 183, 240);
+    color: #a9c8ee;
+  }
+
+  th,
+  td {
+    border-bottom-color: #24324a;
+  }
+
+  hr {
+    background: #24324a;
   }
 }
 
 @media (prefers-color-scheme: dark) {
   strong {
-    color: #eeeff0;
+    color: #f1f4f8;
   }
 }
 
 
 @media (prefers-color-scheme: dark) {
-  a:hover {
-    color: #9fdcf7;
-  }
-
   main ul li::marker {
-    color: #3eb7f0;
+    color: #a9c8ee;
   }
 
   .section-nav a {
-    color: #3eb7f0;
+    color: #a9c8ee;
   }
 
   .section-nav a:hover {
-    color: #9fdcf7;
+    color: #c6dcf7;
   }
 
   .section-nav--sidebar {
-    border-top-color: #3a3c4a;
+    border-top-color: #24324a;
   }
 
   .section-nav--bar {
-    background: #20212b;
-    border-bottom-color: #3a3c4a;
+    background: #0f1a2a;
+    border-bottom-color: #24324a;
+  }
+}
+
+@media screen and (max-width: 960px) and (prefers-color-scheme: dark) {
+  main {
+    border-color: #24324a;
   }
 }
