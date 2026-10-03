@@ -136,6 +136,14 @@
     background: #0f1a2a;
     border-bottom-color: #24324a;
   }
+
+  .section-nav--bar::before {
+    background: linear-gradient(to left, rgba(15, 26, 42, 0), #0f1a2a);
+  }
+
+  .section-nav--bar::after {
+    background: linear-gradient(to right, rgba(15, 26, 42, 0), #0f1a2a);
+  }
 }
 
 @media screen and (max-width: 960px) and (prefers-color-scheme: dark) {

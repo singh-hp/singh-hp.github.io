@@ -18,6 +18,8 @@
   <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
   <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
   <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
+  <!-- after the switcher, which only manages the icon links above it -->
+  <link rel="apple-touch-icon" href="./assets/img/apple-touch-icon.png" />
 
   <link rel=stylesheet href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.4/css/academicons.min.css"
     integrity="sha256-1oz1+rx2BF/9OiBUPSh1NEUwyUECNU5O70RoKnClGNs=" crossorigin=anonymous>
@@ -74,11 +76,11 @@
       {% endif %}
       {% endif %}
       {% if site.email %}
-      <email>{{ site.email }}</email>
+      {% include sidebar-email.html address=site.email %}
       {% endif %}
       {% if site.personal_email %}
       <br>
-      <email>{{ site.personal_email }}</email>
+      {% include sidebar-email.html address=site.personal_email %}
       {% endif %}
 
       <br>

@@ -1,0 +1,2 @@
+{% assign email_parts = include.address | split: ' (at) ' %}
+<email><span>{{ email_parts[0] }}</span>{% if email_parts[1] %} <span>(at) {{ email_parts[1] }}</span>{% endif %}</email>

@@ -12,9 +12,9 @@ title: Harman Preet Singh
 position: Postdoctoral Researcher
 affiliation: University of Tübingen
 affiliation_link: https://www.math.uni-tuebingen.de/
-email: harman-preet.singh (at) uni-tuebingen.de
+email: harman-preet (dot) singh (at) uni-tuebingen (dot) de
 email_link: mailto:harman-preet.singh@uni-tuebingen.de
-personal_email: harman97 (at) hotmail.com
+personal_email: harman97 (at) hotmail (dot) com
 # address: Dept. of Mathematics, Auf der Morgenstelle 10, 72076 Tübingen, Germany
 
 # your profile picture
@@ -52,8 +52,8 @@ auto_dark_mode: false
 round_avatar: false
 enable_notes_thumbnails: false
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-# favicon: ./assets/img/favicon.png
-# favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/favicon-hs-32.png
+favicon_dark: ./assets/img/favicon-hs-32.png
 
 # Google Analytics ID
 # Please uncomment this if you use Google Analytics

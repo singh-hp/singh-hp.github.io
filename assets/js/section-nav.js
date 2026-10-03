@@ -1,5 +1,6 @@
 // Highlights the link of the section currently being read, in both the
-// sidebar and the mobile bar, and keeps the active link visible in the bar.
+// sidebar and the mobile bar, keeps the active link visible in the bar, and
+// shows the bar's edge fades only where more links are hidden.
 (function () {
   var links = Array.prototype.slice.call(document.querySelectorAll('.section-nav a'));
   if (!links.length) return;
@@ -13,6 +14,7 @@
   if (!headings.length) return;
 
   var bar = document.querySelector('.section-nav--bar');
+  var scroller = bar && bar.querySelector('.section-nav__links');
   var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
   var current = null;
   // A clicked link stays active until the reader scrolls by hand, so short
@@ -48,14 +50,21 @@
       else a.removeAttribute('aria-current');
     });
     if (barVisible()) {
-      var active = bar.querySelector('a.active');
+      var active = scroller.querySelector('a.active');
       if (active) {
-        bar.scrollTo({
-          left: active.offsetLeft - (bar.clientWidth - active.offsetWidth) / 2,
+        scroller.scrollTo({
+          left: active.offsetLeft - (scroller.clientWidth - active.offsetWidth) / 2,
           behavior: reduceMotion.matches ? 'auto' : 'smooth'
         });
       }
     }
+  }
+
+  function updateFades() {
+    if (!barVisible()) return;
+    var max = scroller.scrollWidth - scroller.clientWidth;
+    bar.classList.toggle('at-start', scroller.scrollLeft <= 1);
+    bar.classList.toggle('at-end', scroller.scrollLeft >= max - 1);
   }
 
   var ticking = false;
@@ -83,6 +92,12 @@
   });
 
   window.addEventListener('scroll', schedule, { passive: true });
-  window.addEventListener('resize', function () { current = null; schedule(); });
+  window.addEventListener('resize', function () {
+    current = null;
+    schedule();
+    updateFades();
+  });
+  if (scroller) scroller.addEventListener('scroll', updateFades, { passive: true });
   update();
+  updateFades();
 })();
