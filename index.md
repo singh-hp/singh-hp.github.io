@@ -8,14 +8,14 @@ Currently, I am a postdoc at the [University of Tübingen](https://uni-tuebingen
 Previously, I obtained my Ph.D. in Mathematics at [SISSA](https://www.sissa.it), under the supervision of [Marcello Porta](https://sites.google.com/view/marcelloporta/home).
 Before that, I studied physics at the [University of Padova](https://www.unipd.it/en/), where I obtained my B.Sc. and M.Sc. degrees.
 
-My research interests are within the mathematics of quantum many-body systems, with a focus on thermal equilibrium properties, and on the emergence of particle and information transport.
+My research interests lie within Mathematical Physics, in particular the mathematics of quantum many-body systems. Their thermodynamic properties, and the emergence of particle and information transport within them, are what I focus on.
 
 - **Lattice many-body fermions**
-  - Equilibrium properties of weakly interacting systems: local stability and decay of correlations for KMS states
-  - Linear response theory: validity of the Kubo formula for *gapless* systems in low dimensions, via rigorous renormalisation group methods
+  - Validity of linear response theory for gapless phases of matter
+  - Equilibrium properties of KMS states of interacting systems
 - **Propagation of information**
   - Lieb–Robinson bounds for lattice bosonic systems
-  - Lieb–Robinson bounds for fermionic systems in the continuum
+  - Lieb–Robinson bounds for continuum fermionic systems
 {: .interests}
 
 ## Brief Curriculum Vitae
