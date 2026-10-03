@@ -4,16 +4,6 @@ layout: homepage
 
 # Welcome to my homepage!
 
-## Contact
-University of Tübingen  
-Fachbereich Mathematik  
-Auf der Morgenstelle 10  
-72076 Tübingen, Germany  
-**Office**: C4P42  
-**Email**: harman-preet (dot) singh (at) uni-tuebingen (dot) de  
-**Personal email**: harman97 (at) hotmail (dot) com
-
-## About me
 Currently, I am a postdoc at the [University of Tübingen](https://uni-tuebingen.de/en/), working in the groups of [Prof. Marius Lemm](https://www.math.uni-tuebingen.de/de/forschung/maphy/personen/mariuslemm/mariuslemm) and [Prof. Stefan Teufel](https://www.math.uni-tuebingen.de/de/forschung/maphy/personen/stefanteufel?set_language=de).
 Previously, I obtained my Ph.D. in Mathematics at [SISSA](https://www.sissa.it), under the supervision of [Prof. Marcello Porta](https://sites.google.com/view/marcelloporta/home).
 Before that, I studied physics at the [University of Padova](https://www.unipd.it/en/), where I obtained my B.Sc. and M.Sc. degrees.
@@ -28,10 +18,6 @@ My research interests are within the mathematics of quantum many-body systems, w
   - Lieb–Robinson bounds for fermionic systems in the continuum
 {: .interests}
 
-## Publications
-
-{% include_relative _includes/publications.html %}
-
 ## Brief Curriculum Vitae
 
 **2025-now**: Postdoctoral researcher, [University of Tübingen](https://uni-tuebingen.de/en/), Germany  
@@ -41,6 +27,10 @@ My research interests are within the mathematics of quantum many-body systems, w
 
 [Here](assets/files/Singh_CV.pdf) you can find a detailed academic CV.  
 [Here](assets/files/Singh_Thesis.pdf) you can find my Ph.D. thesis, *Large-Scale Response Theory for Gapless Lattice Fermi Systems in Low Dimensions*.
+
+## Publications
+
+{% include_relative _includes/publications.html %}
 
 ## Teaching
 
@@ -75,6 +65,15 @@ My research interests are within the mathematics of quantum many-body systems, w
 - May 2022: *The canonical ensemble of the periodic Toda lattice*  
   Seminar-exam in Riemann Surfaces and Integrable Systems, SISSA, Trieste, Italy
 
-## Misc.
+## Contact
+University of Tübingen  
+Fachbereich Mathematik  
+Auf der Morgenstelle 10  
+72076 Tübingen, Germany  
+**Office**: C4P42  
+**Email**: harman-preet (dot) singh (at) uni-tuebingen (dot) de  
+**Personal email**: harman97 (at) hotmail (dot) com
+
+## Musings
 
 My name is spelled as ਹਰਮਨਪ੍ਰੀਤ ਸਿੰਘ in [Gurmukhī](https://en.wikipedia.org/wiki/Gurmukhi), as ہرمنپریت سنگھ in [Shāhmukhī](https://en.wikipedia.org/wiki/Shahmukhi), as हरमनप्रीत सिंह in [Devanāgarī](https://en.wikipedia.org/wiki/Devanagari), and as ἁρμανπριτ σινγ᾽ in Greek. Tentatively, in Hangul you would have 할만플맅 싱.
