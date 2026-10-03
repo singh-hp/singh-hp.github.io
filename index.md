@@ -21,9 +21,9 @@ My research interests are within the mathematics of quantum many-body systems, w
 ## Brief Curriculum Vitae
 
 2025–now: Postdoctoral researcher, [University of Tübingen](https://uni-tuebingen.de/en/)  
-2025: Ph.D. in Geometry and Mathematical Physics, [SISSA](https://www.sissa.it)  
-2021: M.Sc. in Physics, [University of Padova](https://www.unipd.it/en/)  
-2019: B.Sc. in Physics, [University of Padova](https://www.unipd.it/en/)
+2021–2025: Ph.D. in Geometry and Mathematical Physics, [SISSA](https://www.sissa.it)  
+2019–2021: M.Sc. in Physics, [University of Padova](https://www.unipd.it/en/)  
+2016–2019: B.Sc. in Physics, [University of Padova](https://www.unipd.it/en/)
 
 [Detailed academic CV (PDF)](assets/files/Singh_CV.pdf)  
 [Ph.D. thesis (PDF)](assets/files/Singh_Thesis.pdf): *Large-Scale Response Theory for Gapless Lattice Fermi Systems in Low Dimensions*
