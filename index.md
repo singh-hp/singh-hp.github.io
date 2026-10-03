@@ -4,8 +4,8 @@ layout: homepage
 
 # Welcome to my homepage!
 
-Currently, I am a postdoc at the [University of Tübingen](https://uni-tuebingen.de/en/), working in the groups of [Prof. Marius Lemm](https://www.math.uni-tuebingen.de/de/forschung/maphy/personen/mariuslemm/mariuslemm) and [Prof. Stefan Teufel](https://www.math.uni-tuebingen.de/de/forschung/maphy/personen/stefanteufel?set_language=de).
-Previously, I obtained my Ph.D. in Mathematics at [SISSA](https://www.sissa.it), under the supervision of [Prof. Marcello Porta](https://sites.google.com/view/marcelloporta/home).
+Currently, I am a postdoc at the [University of Tübingen](https://uni-tuebingen.de/en/), working in the groups of [Marius Lemm](https://www.math.uni-tuebingen.de/de/forschung/maphy/personen/mariuslemm/mariuslemm) and [Stefan Teufel](https://www.math.uni-tuebingen.de/de/forschung/maphy/personen/stefanteufel?set_language=de).
+Previously, I obtained my Ph.D. in Mathematics at [SISSA](https://www.sissa.it), under the supervision of [Marcello Porta](https://sites.google.com/view/marcelloporta/home).
 Before that, I studied physics at the [University of Padova](https://www.unipd.it/en/), where I obtained my B.Sc. and M.Sc. degrees.
 
 My research interests are within the mathematics of quantum many-body systems, with a focus on thermal equilibrium properties, and on the emergence of particle and information transport.
