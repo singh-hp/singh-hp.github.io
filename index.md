@@ -11,7 +11,7 @@ Before that, I studied physics at the [University of Padova](https://www.unipd.i
 My research interests lie within Mathematical Physics, in particular the mathematics of quantum many-body systems. Their thermodynamic properties, and the emergence of particle and information transport within them, are what I focus on.
 
 - **Lattice many-body fermions**
-  - Validity of linear response theory for gapless phases of matter
+  - Validity of linear response theory for *gapless* phases of matter
   - Equilibrium properties of KMS states of interacting systems
 - **Propagation of information**
   - Lieb–Robinson bounds for lattice bosonic systems
