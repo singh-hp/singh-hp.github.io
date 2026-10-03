@@ -14,6 +14,41 @@
   {% if site.canonical %}
   <link rel="canonical" href="{{ site.canonical }}" />
   {% endif %}
+  {% if site.google_site_verification %}
+  <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
+  {% endif %}
+
+  <!-- Link previews (LinkedIn, Slack, messaging apps) -->
+  {% assign avatar_url = site.avatar | remove_first: './' | prepend: site.canonical %}
+  <meta property="og:type" content="profile" />
+  <meta property="og:title" content="{{ site.title }}" />
+  <meta property="og:description" content="{{ site.description }}" />
+  <meta property="og:url" content="{{ site.canonical }}" />
+  <meta property="og:image" content="{{ avatar_url }}" />
+  <meta name="twitter:card" content="summary" />
+
+  <!-- Structured data describing the person, for search engines -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": {{ site.title | jsonify }},
+    "jobTitle": {{ site.position | jsonify }},
+    "affiliation": {
+      "@type": "CollegeOrUniversity",
+      "name": {{ site.affiliation | jsonify }},
+      "url": {{ site.affiliation_link | jsonify }}
+    },
+    "url": {{ site.canonical | jsonify }},
+    "image": {{ avatar_url | jsonify }},
+    "sameAs": [
+      {{ site.orcid | jsonify }},
+      {{ site.google_scholar | jsonify }},
+      {{ site.github_link | jsonify }},
+      {{ site.linkedin | jsonify }}
+    ]
+  }
+  </script>
 
   <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
   <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />

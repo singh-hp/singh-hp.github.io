@@ -1,0 +1,16 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>{{ site.canonical }}</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+  </url>
+  <url>
+    <loc>{{ site.canonical }}{{ site.cv_link }}</loc>
+  </url>
+  <url>
+    <loc>{{ site.canonical }}assets/files/Singh_Thesis.pdf</loc>
+  </url>
+</urlset>

@@ -32,9 +32,11 @@ orcid: https://orcid.org/0009-0008-8014-4974
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-description: Personal homepage of Harman Preet Singh.
+description: "Harman Preet Singh, postdoctoral researcher in mathematical physics at the University of Tübingen: quantum many-body systems, publications, CV and talks."
 keywords: Harman Preet Singh, academic, research, mathematics, mathematical physics, quantum many-body systems, linear response, Kubo formula, renormalization group, topological insulators, Tübingen, SISSA
-canonical: https://singh-hp.github.io
+canonical: https://singh-hp.github.io/
+# Google Search Console verification code (the content="..." value of its HTML tag)
+# google_site_verification: 
 
 
 ############################
