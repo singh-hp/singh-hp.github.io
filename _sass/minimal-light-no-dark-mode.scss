@@ -446,12 +446,22 @@ strong {
 
 #teaching + ul li,
 #conference-talks-and-posters + ul li,
-#seminar-talks + ul li {
+#seminar-talks + ul li,
+ul.interests li {
   margin-bottom: 0.5rem;
 }
 
-#teaching + ul strong {
+#teaching + ul strong,
+ul.interests strong {
   font-weight: 700;
+}
+
+ul.interests ul {
+  margin: 0.25rem 0 0;
+}
+
+ul.interests ul li {
+  margin-bottom: 0.25rem;
 }
 
 header ul li+li+li {

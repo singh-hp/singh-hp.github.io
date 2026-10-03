@@ -18,18 +18,15 @@ Currently, I am a postdoc at the [University of Tübingen](https://uni-tuebingen
 Previously, I obtained my Ph.D. in Mathematics at [SISSA](https://www.sissa.it), under the supervision of [Prof. Marcello Porta](https://sites.google.com/view/marcelloporta/home).
 Before that, I studied physics at the [University of Padova](https://www.unipd.it/en/), where I obtained my B.Sc. and M.Sc. degrees.
 
-## Research Interests
+My research interests are within the mathematics of quantum many-body systems, with a focus on thermal equilibrium properties, and on the emergence of particle and information transport.
 
-My research focuses on the mathematical analysis of transport in quantum many-body systems, employing techniques drawn from quantum field theory and equilibrium statistical mechanics.
-I am also keen on the emergence of topological and geometrical invariants parameterising robust phases of matter.
-
-During my Ph.D., I worked on proving the validity of linear response, encoded in the Kubo formula, for *gapless* lattice fermionic systems in low dimensions, via rigorous renormalisation group techniques.
-Currently, I am investigating the extension of these results to higher-dimensional models.
-I am also studying the locality propagation properties of fermionic systems in the continuum setting.
-
-- **Quantum many-body systems:** transport, linear response theory, Kubo formula
-- **Topological phases of matter:** edge response of 2d topological insulators
-- **Methods:** rigorous renormalisation group, quantum field theory, statistical mechanics
+- **Lattice many-body fermions**
+  - Equilibrium properties of weakly interacting systems: local stability and decay of correlations for KMS states
+  - Linear response theory: validity of the Kubo formula for *gapless* systems in low dimensions, via rigorous renormalisation group methods
+- **Propagation of information**
+  - Lieb–Robinson bounds for lattice bosonic systems
+  - Lieb–Robinson bounds for fermionic systems in the continuum
+{: .interests}
 
 ## Publications
 
