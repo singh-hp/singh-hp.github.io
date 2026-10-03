@@ -42,7 +42,8 @@ I am also studying the locality propagation properties of fermionic systems in t
 **2021**: M.Sc. in Physics (110/110 *cum laude*), [University of Padova](https://www.unipd.it/en/), Italy  
 **2019**: B.Sc. in Physics, [University of Padova](https://www.unipd.it/en/), Italy
 
-[Here](assets/files/Singh_CV.pdf) you can find a detailed academic CV.
+[Here](assets/files/Singh_CV.pdf) you can find a detailed academic CV.  
+[Here](assets/files/Singh_Thesis.pdf) you can find my Ph.D. thesis, *Large-Scale Response Theory for Gapless Lattice Fermi Systems in Low Dimensions*.
 
 ## Teaching
 

@@ -306,12 +306,12 @@ h1 {
 }
 
 a {
-  color: #39c;
+  color: #1f6fb2;
   text-decoration: none;
 }
 
 a:hover {
-  color: #069;
+  color: #043361;
 }
 
 a small {
@@ -438,6 +438,10 @@ header ul a:active {
 strong {
   color: #222;
   font-weight: 500;
+}
+
+#contact + p strong {
+  font-weight: 700;
 }
 
 header ul li+li+li {
