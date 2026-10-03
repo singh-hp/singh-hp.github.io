@@ -89,6 +89,12 @@
 </head>
 
 <body>
+  <div class="topbar">
+    <div class="topbar__inner">
+      <a class="topbar__title" href="#">{{ site.topbar_title | default: site.title }}</a>
+      {% include section-nav.html %}
+    </div>
+  </div>
   <div class="wrapper">
     <header>
 
@@ -166,9 +172,7 @@
 
       </div>
       <br>
-      {% include section-nav.html class="section-nav--sidebar" %}
     </header>
-    {% include section-nav.html class="section-nav--bar" %}
     <main>
 
       {{ content }}

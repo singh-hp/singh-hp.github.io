@@ -1,6 +1,6 @@
-// Highlights the link of the section currently being read, in both the
-// sidebar and the mobile bar, keeps the active link visible in the bar, and
-// shows the bar's edge fades only where more links are hidden.
+// Highlights the link of the section currently being read in the top bar,
+// keeps the active link visible when the links scroll sideways (mobile), and
+// shows the edge fades only where more links are hidden.
 (function () {
   var links = Array.prototype.slice.call(document.querySelectorAll('.section-nav a'));
   if (!links.length) return;
@@ -13,7 +13,8 @@
   var headings = ids.map(function (id) { return document.getElementById(id); }).filter(Boolean);
   if (!headings.length) return;
 
-  var bar = document.querySelector('.section-nav--bar');
+  var topbar = document.querySelector('.topbar');
+  var bar = document.querySelector('.section-nav');
   var scroller = bar && bar.querySelector('.section-nav__links');
   var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
   var current = null;
@@ -31,7 +32,7 @@
     if (window.innerHeight + window.scrollY >= doc.scrollHeight - 2) {
       return headings[headings.length - 1].id;
     }
-    var offset = (barVisible() ? bar.offsetHeight : 0) + window.innerHeight * 0.25;
+    var offset = (topbar ? topbar.offsetHeight : 0) + window.innerHeight * 0.25;
     var id = headings[0].id;
     headings.forEach(function (h) {
       if (h.getBoundingClientRect().top <= offset) id = h.id;
@@ -63,8 +64,8 @@
   function updateFades() {
     if (!barVisible()) return;
     var max = scroller.scrollWidth - scroller.clientWidth;
-    bar.classList.toggle('at-start', scroller.scrollLeft <= 1);
-    bar.classList.toggle('at-end', scroller.scrollLeft >= max - 1);
+    bar.classList.toggle('more-left', scroller.scrollLeft > 1);
+    bar.classList.toggle('more-right', scroller.scrollLeft < max - 1);
   }
 
   var ticking = false;

@@ -10,6 +10,8 @@
 # Basic Information 
 title: Harman Preet Singh
 position: Postdoctoral Researcher
+# label on the left of the top bar (defaults to the title)
+topbar_title: "Harman’s webpage"
 affiliation: University of Tübingen
 affiliation_link: https://www.math.uni-tuebingen.de/
 email: harman-preet.singh (at) uni-tuebingen (dot) de

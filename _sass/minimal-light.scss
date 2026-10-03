@@ -120,29 +120,30 @@
     color: #a9c8ee;
   }
 
-  .section-nav a {
+  .section-nav a,
+  .topbar__title {
     color: #a9c8ee;
   }
 
-  .section-nav a:hover {
+  .section-nav a:hover,
+  .topbar__title:hover {
     color: #c6dcf7;
   }
 
-  .section-nav--sidebar,
   main h2 {
     border-top-color: #24324a;
   }
 
-  .section-nav--bar {
+  .topbar {
     background: #0f1a2a;
     border-bottom-color: #24324a;
   }
 
-  .section-nav--bar::before {
+  .section-nav::before {
     background: linear-gradient(to left, rgba(15, 26, 42, 0), #0f1a2a);
   }
 
-  .section-nav--bar::after {
+  .section-nav::after {
     background: linear-gradient(to right, rgba(15, 26, 42, 0), #0f1a2a);
   }
 }
