@@ -34,6 +34,8 @@ My research interests are within the mathematics of quantum many-body systems, w
 
 ## Teaching
 
+- WS 2026: **Mathematical Quantum Theory**  
+  Teaching assistant, M.Sc. in Mathematical Physics, University of Tübingen
 - SS 2026: **Advanced Topics in Mathematical Quantum Theory**  
   Teaching assistant, M.Sc. in Mathematical Physics, University of Tübingen
 - WS 2025: **Mathematical Quantum Theory**  
