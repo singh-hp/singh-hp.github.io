@@ -47,24 +47,36 @@ I am also studying the locality propagation properties of fermionic systems in t
 
 ## Teaching
 
-- **Summer Semester 2026**: Teaching assistant for *Advanced Topics in Mathematical Quantum Theory* (Prof. M. Lemm), M.Sc. in Mathematical Physics, University of Tübingen
-- **Winter Semester 2025/26**: Teaching assistant for *Mathematical Quantum Theory* (Prof. S. Teufel), M.Sc. in Mathematical Physics, University of Tübingen
+- **Advanced Topics in Mathematical Quantum Theory**  
+  Teaching assistant, M.Sc. in Mathematical Physics, University of Tübingen (SS 2026)
+- **Mathematical Quantum Theory**  
+  Teaching assistant, M.Sc. in Mathematical Physics, University of Tübingen (WS 2025/26)
 
 ## Talks
 
 #### Conference talks and posters
-- **Feb 2025**: *Large scale edge response for 2d topological insulators*, Mathematical Challenges in Quantum Mechanics, GSSI, L'Aquila, Italy
-- **Dec 2024**: *Validity of edge linear response for 2d topological insulators*, 127th Statistical Mechanics Conference, Rutgers University, Piscataway, New Jersey, USA
-- **Aug 2024**: Contributed poster, Rigorous Renormalization Group Analysis of Collective Phenomena in Fermionic Quantum Systems, Como, Italy
-- **Aug 2024**: *Validity of edge linear response for 2d topological insulators*, Quantissima in the Serenissima V, Venice, Italy
+- *Large scale edge response for 2d topological insulators*  
+  Mathematical Challenges in Quantum Mechanics, GSSI, L'Aquila, Italy (Feb 2025)
+- *Validity of edge linear response for 2d topological insulators*  
+  127th Statistical Mechanics Conference, Rutgers University, Piscataway, New Jersey, USA (Dec 2024)
+- Contributed poster  
+  Rigorous Renormalization Group Analysis of Collective Phenomena in Fermionic Quantum Systems, Como, Italy (Aug 2024)
+- *Validity of edge linear response for 2d topological insulators*  
+  Quantissima in the Serenissima V, Venice, Italy (Aug 2024)
 
 #### Seminar talks
-- **Dec 2025**: *Validity of Kubo formula for 1d and quasi-1d lattice fermionic systems*, Junior SFB Coffee Talk, online
-- **Nov 2025**: *Large-scale response theory for gapless lattice Fermi systems in low dimensions*, Mathematical Physics Oberseminar, University of Tübingen, Germany
-- **Jan 2025**: *Large scale response of gapless 1d and quasi-1d fermionic systems*, Mathematical Physics Oberseminar, University of Tübingen, Germany
-- **Mar 2023**: *A geometric picture of topological phases of matter*, Junior Geometry and Mathematical Physics Seminar, SISSA, Trieste, Italy
-- **Jun 2022**: *Determination of the RG fixed point via tree expansion*, Renormalization Group Seminar, SISSA, Trieste, Italy
-- **May 2022**: *The canonical ensemble of the periodic Toda lattice*, Seminar-exam in Riemann Surfaces and Integrable Systems, SISSA, Trieste, Italy
+- *Validity of Kubo formula for 1d and quasi-1d lattice fermionic systems*  
+  Junior SFB Coffee Talk, online (Dec 2025)
+- *Large-scale response theory for gapless lattice Fermi systems in low dimensions*  
+  Mathematical Physics Oberseminar, University of Tübingen, Germany (Nov 2025)
+- *Large scale response of gapless 1d and quasi-1d fermionic systems*  
+  Mathematical Physics Oberseminar, University of Tübingen, Germany (Jan 2025)
+- *A geometric picture of topological phases of matter*  
+  Junior Geometry and Mathematical Physics Seminar, SISSA, Trieste, Italy (Mar 2023)
+- *Determination of the RG fixed point via tree expansion*  
+  Renormalization Group Seminar, SISSA, Trieste, Italy (Jun 2022)
+- *The canonical ensemble of the periodic Toda lattice*  
+  Seminar-exam in Riemann Surfaces and Integrable Systems, SISSA, Trieste, Italy (May 2022)
 
 ## Misc.
 

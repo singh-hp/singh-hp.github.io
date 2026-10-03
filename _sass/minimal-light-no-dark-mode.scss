@@ -444,6 +444,16 @@ strong {
   font-weight: 700;
 }
 
+#teaching + ul li,
+#conference-talks-and-posters + ul li,
+#seminar-talks + ul li {
+  margin-bottom: 0.5rem;
+}
+
+#teaching + ul strong {
+  font-weight: 700;
+}
+
 header ul li+li+li {
   border-right: none;
   width: 89px;
