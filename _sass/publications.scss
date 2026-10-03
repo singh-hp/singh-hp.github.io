@@ -26,3 +26,11 @@
 .publications ul.pub-list li .title {
   font-weight: 700;
 }
+
+.publications ul.pub-list li a.arxiv {
+  color: #1f7a4d;
+}
+
+.publications ul.pub-list li a.arxiv:hover {
+  color: #0b3d2a;
+}

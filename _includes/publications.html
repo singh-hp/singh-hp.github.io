@@ -4,7 +4,7 @@
     <li>
       <span class="title">{{ pub.title }}</span><br>
       {{ pub.authors }}
-      {%- if pub.arxiv %}, <a href="{{ pub.arxiv }}">arXiv:{{ pub.arxiv | split: '/' | last }}</a>{% endif %}
+      {%- if pub.arxiv %}, <a class="arxiv" href="{{ pub.arxiv }}">arXiv:{{ pub.arxiv | split: '/' | last }}</a>{% endif %}
       {%- if pub.link %}, <a href="{{ pub.link }}">{{ pub.journal }}</a>{% endif %}
       {%- if pub.year %} ({{ pub.year }}){% endif %}
       {%- if pub.notes %}, {{ pub.notes }}{% endif %}
