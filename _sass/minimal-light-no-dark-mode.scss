@@ -690,10 +690,11 @@ html {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 2px 14px;
+  gap: 2px 12px;
+  margin: 0 -10px;
   padding-top: 14px;
   border-top: 1px solid #e5e5e5;
-  font-size: 15px;
+  font-size: 1.1rem;
 }
 
 .section-nav--bar {
