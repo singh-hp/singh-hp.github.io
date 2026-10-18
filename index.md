@@ -44,6 +44,8 @@ My research interests lie within Mathematical Physics, in particular the mathema
 ## Talks
 
 #### Conference talks and posters
+- Jan 2027: Invited talk in the session *Quantum transport and geometric methods for solid state physics*  
+  Trails in Quantum Mechanics and Surroundings, Napoli, Italy
 - Feb 2025: *Large scale edge response for 2d topological insulators*  
   Mathematical Challenges in Quantum Mechanics, GSSI, L'Aquila, Italy
 - Dec 2024: *Validity of edge linear response for 2d topological insulators*  
@@ -78,4 +80,4 @@ Auf der Morgenstelle 10
 
 ## Musings
 
-My name is spelled as ਹਰਮਨਪ੍ਰੀਤ ਸਿੰਘ in [Gurmukhī](https://en.wikipedia.org/wiki/Gurmukhi), as ہرمنپریت سنگھ in [Shāhmukhī](https://en.wikipedia.org/wiki/Shahmukhi), as हरमनप्रीत सिंह in [Devanāgarī](https://en.wikipedia.org/wiki/Devanagari), and as ἁρμανπριτ σινγ᾽ in Greek. Tentatively, in Hangul you would have 할만플맅 싱.
+My name is spelled as ਹਰਮਨਪ੍ਰੀਤ ਸਿੰਘ in [Gurmukhī](https://en.wikipedia.org/wiki/Gurmukhi), as ہرمنپریت سنگھ in [Shāhmukhī](https://en.wikipedia.org/wiki/Shahmukhi), as हरमनप्रीत सिंह in [Devanāgarī](https://en.wikipedia.org/wiki/Devanagari), and as ἁρμανπριτ σινγ᾽ in [Greek](https://en.wikipedia.org/wiki/Greek_alphabet). Tentatively, in [Hangul](https://en.wikipedia.org/wiki/Hangul) you would have 할만플맅 싱.
