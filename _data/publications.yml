@@ -1,5 +1,10 @@
 main:
 
+  - title: Lieb-Robinson bound for one-dimensional continuum fermions
+    authors: M. Lemm, H. Lu, and H. P. Singh
+    arxiv: https://arxiv.org/abs/2611.11655
+    year: 2026
+
   - title: Large scale dynamical response of interacting 1d Fermi systems
     authors: M. Porta, G. Scola, and H. P. Singh
     arxiv: https://arxiv.org/abs/2509.08665
